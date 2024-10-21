@@ -1,0 +1,11 @@
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\DesafioCalculadoraTDD\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\DesafioCalculadoraTDD\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\DesafioCalculadoraTDD\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\DesafioCalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\DesafioCalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\DesafioCalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\DesafioCalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\DesafioCalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\DesafioCalculadoraTDD\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\DesafioCalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\DesafioCalculadoraTDD\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
